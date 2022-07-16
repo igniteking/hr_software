@@ -1,1 +1,1 @@
-010 skydash/
+/010 skydash/*
